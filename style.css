@@ -1,0 +1,28 @@
+body {
+   background-color: peachpuff;
+   display:flex;
+   align-items: center;
+   width:100%;
+   height:100vh;
+   justify-content: center;
+
+}
+
+button {
+    margin-bottom:600px;
+    
+}
+
+#container {
+    width: 500px;
+    height: 500px;
+    position: relative;
+    background:orchid;
+}
+
+#animate {
+    width:100px;
+    height:100px;
+    position: absolute;
+    background:rgb(124, 7, 118);
+}
